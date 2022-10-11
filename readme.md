@@ -1,5 +1,5 @@
 # Sesi 8 - Practice Build REST API 
-Kelas: Scalable Web Services with Go (Programming Language) - Hacktiv8
+Kelas: Scalable Web Services with Go (Programming Language) - Digitalent ✕ Hacktiv8
 
 ```bash
 go get -u github.com/gin-gonic/gin
